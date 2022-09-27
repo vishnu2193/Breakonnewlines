@@ -1,10 +1,11 @@
 import "./styles.css";
 import { Fragment } from "react";
 
-//refer:
-//https://30secondsofinterviews.org/
- //https://github.com/30-seconds/30-seconds-of-interviews
-
+{/*
+  refer:
+  https://30secondsofinterviews.org/
+  https://github.com/30-seconds/30-seconds-of-interviews
+*/}
 const str = "Wow I am so cool \n I'm a JavaScript haiku \n render my newlines";
 
 export default function App() {
